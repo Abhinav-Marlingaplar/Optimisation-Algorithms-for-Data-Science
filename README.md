@@ -94,9 +94,9 @@ All code is written in **Python (Jupyter Notebook)** with detailed explanations 
 
 ---
 
-## 📎 Files Included
-- `Optimization_Techniques_Assignment.ipynb` — Main notebook  
-- `Optimization_Techniques_Assignment.pdf` — PDF version for convenience  
+##  Files Included
+- `IMA314_Project.ipynb` — Main notebook
+- requirements.txt
 - Support images generated during execution (optional)
 
 ---
@@ -121,9 +121,9 @@ pip install -r requirements.txt
 ## How to Run
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-jupyter notebook Optimization_Techniques_Assignment.ipynb
+git clone https://github.com/Abhinav-Marlingaplar/Optimisation-Algorithms-for-Data-Science.git
+cd Optimisation-Algorithms-for-Data-Science
+jupyter notebook IMA314_Project.ipynb
 ```
 
 ## Author
