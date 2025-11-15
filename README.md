@@ -101,24 +101,24 @@ Below are some sample images of the project:
 ### Types of Hessian
 
 <p align="center">
-  <img src="images/Positive-definite.png" width="300">
-  <img src="images/Positive-semi-definite.png" width="300">
-  <img src="images/Negative-definite.png" width="300">
+  <img src="images/Positive-definite.png" width="350">
+  <img src="images/Positive-semi-definite.png" width="350">
+  <img src="images/Negative-definite.png" width="350">
 </p>
 
 <p align="center">
-  <img src="images/Negative-semi-definite.png" width="300">
-  <img src="images/Indefinite.png" width="300">
+  <img src="images/Negative-semi-definite.png" width="350">
+  <img src="images/Indefinite.png" width="350">
 </p>
 
 
 ### GD Variants Comparison
 
-<img src="images/GD-Variants.png" width="450">
+<img src="images/GD-Variants.png" width="600">
 
 ### Advanced Optimization Algorithms
 
-<img src="images/Advanced-optimization.png" width="450">
+<img src="images/Advanced-optimization.png" width="600">
 
 ### Newton’s Method Resultant contour
 
