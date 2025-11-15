@@ -94,9 +94,33 @@ All code is written in **Python (Jupyter Notebook)** with detailed explanations 
 
 ---
 
+## Sample images
+
+Below are some sample images of the project
+
+### Types of hessian
+
+<img src="images/Positive-definite.png" width="450">
+<img src="images/Positive-semi-definite.png" width="450">
+<img src="images/Negative-definite.png" width="450">
+<img src="images/Negative-semi-definite.png" width="450">
+<img src="images/Indefinite.png" width="450">
+
+### GD Variants Comparison
+
+<img src="images/GD-Variants.png" width="450">
+
+### Advanced Optimization Algorithms
+
+<img src="images/Advanced-optimization.png" width="450">
+
+### Newton’s Method Resultant contour
+
+<img src="images/Newton.png" width="450">
+
 ##  Files Included
 - `IMA314_Project.ipynb` — Main notebook
-- requirements.txt
+- `requirements.txt` - Set of requirements to be installed
 - Support images generated during execution (optional)
 
 ---
