@@ -134,11 +134,11 @@ Below are some sample images of the project:
 
 Install required packages:
 
--numpy
--matplotlib
--scikit-learn
--sympy
--scipy
+- numpy
+- matplotlib
+- scikit-learn
+- sympy
+- scipy
 
 ---
 
