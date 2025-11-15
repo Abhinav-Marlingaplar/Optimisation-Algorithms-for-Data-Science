@@ -101,14 +101,11 @@ Below are some sample images of the project:
 ### Types of Hessian
 
 <p align="center">
-  <img src="images/Positive-definite.png" width="350">
-  <img src="images/Positive-semi-definite.png" width="350">
-  <img src="images/Negative-definite.png" width="350">
-</p>
-
-<p align="center">
-  <img src="images/Negative-semi-definite.png" width="350">
-  <img src="images/Indefinite.png" width="350">
+  <img src="images/Positive-definite.png" width="400">
+  <img src="images/Positive-semi-definite.png" width="400">
+  <img src="images/Negative-definite.png" width="400">
+  <img src="images/Negative-semi-definite.png" width="400">
+  <img src="images/Indefinite.png" width="400">
 </p>
 
 
