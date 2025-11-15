@@ -128,6 +128,6 @@ jupyter notebook IMA314_Project.ipynb
 
 ## Author
 
-Abhinav Marlingaplar
-B.Tech CSE (AI & DS)
-Indian Institute of Information Technology, Kottayam
+- Abhinav Marlingaplar
+- B.Tech CSE (AI & DS)
+- Indian Institute of Information Technology, Kottayam
