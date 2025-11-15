@@ -96,15 +96,21 @@ All code is written in **Python (Jupyter Notebook)** with detailed explanations 
 
 ## Sample images
 
-Below are some sample images of the project
+Below are some sample images of the project:
 
-### Types of hessian
+### Types of Hessian
 
-<img src="images/Positive-definite.png" width="450">
-<img src="images/Positive-semi-definite.png" width="450">
-<img src="images/Negative-definite.png" width="450">
-<img src="images/Negative-semi-definite.png" width="450">
-<img src="images/Indefinite.png" width="450">
+<p align="center">
+  <img src="images/Positive-definite.png" width="300">
+  <img src="images/Positive-semi-definite.png" width="300">
+  <img src="images/Negative-definite.png" width="300">
+</p>
+
+<p align="center">
+  <img src="images/Negative-semi-definite.png" width="300">
+  <img src="images/Indefinite.png" width="300">
+</p>
+
 
 ### GD Variants Comparison
 
