@@ -113,7 +113,7 @@ Below are some sample images of the project:
 
 <img src="images/GD-Variants.png" width="600">
 
-### Advanced Optimization Algorithms
+### Adaptive Methods
 
 <img src="images/Advanced-optimization.png" width="600">
 
