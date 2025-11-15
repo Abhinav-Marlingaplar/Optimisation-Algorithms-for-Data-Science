@@ -121,6 +121,8 @@ Below are some sample images of the project:
 
 <img src="images/Newton.png" width="450">
 
+---
+
 ##  Files Included
 - `IMA314_Project.ipynb` — Main notebook
 - `requirements.txt` - Set of requirements to be installed
@@ -138,12 +140,14 @@ Install required packages:
 -sympy
 -scipy
 
+---
 
 ## Installation:
 
 ```bash
 pip install -r requirements.txt
 ```
+---
 
 ## How to Run
 
@@ -152,6 +156,8 @@ git clone https://github.com/Abhinav-Marlingaplar/Optimisation-Algorithms-for-Da
 cd Optimisation-Algorithms-for-Data-Science
 jupyter notebook IMA314_Project.ipynb
 ```
+---
+
 
 ## Author
 
